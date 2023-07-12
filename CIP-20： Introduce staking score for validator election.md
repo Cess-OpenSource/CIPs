@@ -6,8 +6,6 @@
 | --- | ------------------ | ------ | ------ | --------- | -------- | -------- |
 | 20  | Consensus Election | Shaka  | review | Standards | Core     | 23/07/05 |
 
-\
-
 
 ### Abstract <a href="#abstract" id="abstract"></a>
 
